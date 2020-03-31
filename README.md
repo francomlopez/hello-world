@@ -1,5 +1,5 @@
 # hello-world
-aprendiendo a github
+hola IDEOTAS
 
 Hola PENDEJOS!
 
